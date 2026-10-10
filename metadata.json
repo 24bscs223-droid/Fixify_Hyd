@@ -1,0 +1,6 @@
+{
+  "name": "FixiFy Hyderabad",
+  "description": "Civic issue reporting and tracking platform for Hyderabad with real-time GPS, photo upload, multi-role auth, and live status updates.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
